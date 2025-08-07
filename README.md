@@ -151,4 +151,4 @@ NutriScan nasceu do desejo de facilitar a alimentação saudável, usando tecnol
 
 "A melhor dieta é aquela que entende você — agora com IA para te ajudar a escolher o caminho." 🍏
 
-Desenvolvido com carinho por SeuNomeAqui
+Desenvolvido com carinho por **Breno Assis**
